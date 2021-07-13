@@ -1,0 +1,31 @@
+_repo: Johann-Sebastian-Bach-Life-Stories-for-Young-People_65747
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Upton, George P. (George Putnam)
+    alias: Upton, George Putnam
+    birthdate: 1834
+    deathdate: 1919
+    gutenberg_agent_id: '5760'
+    url: http://www.gutenberg.org/2009/agents/5760
+    wikipedia: https://en.wikipedia.org/wiki/George_Putnam_Upton
+creator:
+  author:
+    agent_name: Ziemssen, Ludwig
+    gutenberg_agent_id: '53485'
+    url: http://www.gutenberg.org/2009/agents/53485
+description: ''
+gutenberg_issued: '2021-07-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65747'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Johann Sebastian Bach
+
+  Life Stories for Young People'
+url: http://www.gutenberg.org/ebooks/65747
